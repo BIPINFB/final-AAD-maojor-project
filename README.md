@@ -1,10 +1,15 @@
 Covid rel app where it simply shows the no.of cases, no. of deaths,.... and Comments/Reviews should be stored in Firebase DB.
 
 Login & Logout [Firebase DB or shared preferences]
+
 User Sign up [Firebase DB or shared preferences
+
 UI with almost all widgets discussed in session.
+
 Burger Menu
+
 Updated App Icon
+
 Result screen
 
 
